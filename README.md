@@ -9,6 +9,5 @@ A Python-powered tool for hiding secret messages inside images using **image ste
 
 - 🔐 Encode text messages into PNG images
 - 🔍 Decode hidden messages from stego-images
-- 🧪 Interactive demo (hosted on [Hugging Face Spaces](your-link-here))
 - 📁 Sample input/output images
 - 💡 Easy to use, beginner-friendly
